@@ -6,7 +6,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 375rem) {
     .container {
       width: 100%;
       padding: 0 10px;
